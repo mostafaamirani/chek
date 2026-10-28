@@ -1,0 +1,6 @@
+{
+  "name": "دفتر ثبت چک‌های بیمه",
+  "description": "سیستم آنلاین ثبت، مدیریت و جمع‌بندی چک‌های دریافتی نمایندگان بیمه با قابلیت همگام‌سازی ابری و حفاظت از اطلاعات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
